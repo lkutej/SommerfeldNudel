@@ -1,0 +1,7 @@
+makeMyBasicKinematicCollidingParcelSubmodels.C
+
+myLocalInteraction/myPatchInteractionData.C
+myLocalInteraction/myPatchInteractionDataList.C
+
+
+LIB = $(FOAM_USER_LIBBIN)/myParcelPatchInteractionModels
